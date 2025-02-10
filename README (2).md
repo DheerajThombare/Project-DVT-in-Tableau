@@ -7,7 +7,7 @@ This Tableau project provides an interactive analysis of Car Insurance claims, o
 ✔️ **Detailed Report ** – Top N client claims over time  
 ✔️ **Male & Female claimant Analysis** – Understand which gender type has most claims  
 ✔️ **Highest claims** – Compare highest claims in markets  
-✔️ **Best Car Type ** – Best Car type for highest claims  
+✔️ **Best Car Type** – Best Car type for highest claims  
 ✔️ **Majority Claims** – Majority claims from diff Group  
 
 ## 📂 Files Included    

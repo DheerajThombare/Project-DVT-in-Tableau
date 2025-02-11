@@ -1,4 +1,4 @@
-# 📊 Tableau Sales Dashboard
+# 📊 Tableau Analysis Dashboard 
 
 ## Overview  
 This Tableau project provides an interactive analysis of Car Insurance claims, overall claims, detailed top cleints, and it involves all category presented analysis(gender,income,home value,etc). It helps visualize key points for insurance company to boost there reach.  
